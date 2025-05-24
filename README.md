@@ -53,7 +53,8 @@ The dataset includes:
 - Two-year contracts: Only 3% churn rate
 
 #### 3. Payment Methods
-Distribution and churn impact:
+##### Distribution and churn impact:
+
 Payment Method Share Risk Level Electronic Check 33.6% Highest churn Mailed Check 22.8% Moderate Bank Transfer 21.9% Low Credit Card 21.6% Lowest churn
 
 #### 4. Service Analysis
