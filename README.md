@@ -1,5 +1,7 @@
 # Telecom Customer Churn Prediction Analysis
 
+![Telecom Customer Churn](./docs/pic_project.png)
+
 A comprehensive data mining project focusing on customer churn prediction in the telecommunications industry.
 
 ## Project Team
