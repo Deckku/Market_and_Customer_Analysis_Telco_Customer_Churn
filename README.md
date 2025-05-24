@@ -114,15 +114,3 @@ Customer churn significantly impacts business profitability. Our analysis shows 
 
 The project demonstrates that machine learning can effectively predict churn risk, allowing companies to take proactive measures in customer retention.
 
-## 📝 Future Work
-1. Feature engineering for better prediction accuracy
-2. Implement deep learning models
-3. Real-time churn prediction system
-4. Customer lifetime value integration
-5. Recommendation system for personalized retention strategies
-
-
-
-
-
-
