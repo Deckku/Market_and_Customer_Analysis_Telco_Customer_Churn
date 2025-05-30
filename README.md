@@ -1,6 +1,6 @@
 # Telecom Customer Churn Prediction Analysis 
 
-![Telecom Customer Churn](./docs/pic_project.png)
+![Telecom Customer Churn](./docs/pic_project.png) 
 
 > "Did you know that attracting a new customer costs five times as much as keeping an existing one?"
 
