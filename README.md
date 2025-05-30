@@ -69,7 +69,8 @@ Model Accuracy:
 - Voting Classifier 81.7% 
 - Random Forest 81.4% 
 - Logistic Regression 80.9% 
--Gradient Boosting 80.8% SVM 80.8% KNN 77.5% Decision Tree 72.5%
+- Gradient Boosting 80.8%
+- SVM 80.8% KNN 77.5% Decision Tree 72.5%
 
 ### Best Model: Voting Classifier
 - Ensemble approach combining:
