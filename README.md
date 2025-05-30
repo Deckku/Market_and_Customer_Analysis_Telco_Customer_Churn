@@ -66,9 +66,9 @@ Payment Method Share Risk Level Electronic Check 33.6% Highest churn Mailed Chec
 
 ### Model Performance Comparison
 Model Accuracy: 
--Voting Classifier 81.7% 
--Random Forest 81.4% 
--Logistic Regression 80.9% 
+- Voting Classifier 81.7% 
+- Random Forest 81.4% 
+- Logistic Regression 80.9% 
 -Gradient Boosting 80.8% SVM 80.8% KNN 77.5% Decision Tree 72.5%
 
 ### Best Model: Voting Classifier
