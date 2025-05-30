@@ -1,4 +1,4 @@
-# Telecom Customer Churn Prediction Analysis
+# Telecom Customer Churn Prediction Analysis 
 
 ![Telecom Customer Churn](./docs/pic_project.png)
 
